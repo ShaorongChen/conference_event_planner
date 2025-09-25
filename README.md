@@ -23,7 +23,6 @@ A React application for planning conference events and managing expenses.
    ```bash
    cd conference_event_planner
    ```
-
 3. Install dependencies:
    ```bash
    npm install
@@ -33,7 +32,7 @@ A React application for planning conference events and managing expenses.
 
 To start the development server:
 ```bash
-npm run preview
+npm run dev
 ```
 
 The application will run on `http://localhost:4137`.
