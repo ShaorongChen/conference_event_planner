@@ -40,7 +40,7 @@ To start the development server:
 npm run dev
 ```
 
-The application will run on `http://localhost:4137`.
+The application will run on `http://localhost:4173`.
 
 ## Project Structure
 
